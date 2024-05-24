@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="name">Makechi Eric</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">+254 716 862 131</string>
+    <string name="home">Khwisero, Kenya</string>
+    <string name="email">makechieric02@gmail.com</string>
+</resources>
